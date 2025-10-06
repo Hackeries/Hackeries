@@ -46,8 +46,9 @@
 - **[Brain-Tumour](https://github.com/Hackeries/Brain-Tumour)** — Tumor detection project using Python & Machine Learning.
 
 # 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&theme=radical&include_all_commits=true&count_private=true&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&include_all_commits=true&count_private=true)
+<!-- HIDE commits to avoid "Could not fetch total commits" on the public instance -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&theme=radical&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&hide=commits)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackeries&theme=radical)
 
 # 🏆 GitHub Trophies
