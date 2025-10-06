@@ -1,8 +1,10 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=40&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Let's+Build+Cool+Projects!" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=600&height=40&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Let's+Build+Cool+Projects!" />
 </p>
 
-# 🖥️ Technical Skills:
+---
+
+## 🖥️ Technical Skills
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -39,20 +41,33 @@
   </a>
 </p>
 
-# 📂 Projects
-- **[AlgoRise](https://github.com/Hackeries/AlgoRise)** — Real-time competitive programming tracker using Next.js, TypeScript, Supabase, TailwindCSS.
-- **[FoodGaurd-Ai](https://github.com/Hackeries/FoodGaurd-Ai)** — AI-based food safety analysis using Python and Jupyter Notebooks.
+---
+
+## 📂 Projects
+- **[AlgoRise](https://github.com/Hackeries/AlgoRise)** — Real-time competitive programming tracker using Next.js, TypeScript, Supabase, and TailwindCSS.
+- **[Urban Synapse](https://github.com/Hackeries/Urban-Synapse)** — Digital platform for inter-departmental cooperation in Indian urban governance, built with Next.js, Supabase, and TailwindCSS.
+- **[FoodGaurd-Ai](https://github.com/Hackeries/FoodGaurd-Ai)** — AI-based food safety analysis using Python & Jupyter Notebooks.  
 - **[Brain-Tumour](https://github.com/Hackeries/Brain-Tumour)** — Tumor detection project using Python & Machine Learning.
-- **[Portfolio](https://github.com/Hackeries/Portfolio)** — Personal portfolio website built with CSS & JavaScript.
 
-# 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&theme=radical&include_all_commits=true&count_private=true&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackeries&theme=radical)
+---
 
-# 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hackeries&theme=radical&no-bg=true)
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&theme=radical&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hackeries&theme=radical" alt="GitHub Streak" />
+</p>
 
-# 📫 Connect with Me
-- Email: itssaj15@gmail.com  
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hackeries&theme=radical&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📫 Connect with Me
+- Email: [itssaj15@gmail.com](mailto:itssaj15@gmail.com)  
 - LinkedIn: [Aviral Joshi](https://www.linkedin.com/in/aviral-joshi15/)  
+- GitHub: [Hackeries](https://github.com/Hackeries)
