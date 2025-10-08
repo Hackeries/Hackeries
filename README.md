@@ -51,7 +51,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&hide=commits)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackeries&theme=radical)
 
-[![An image of @hackeries's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hackeries)](https://holopin.io/@hackeries)
 
 # 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Hackeries&theme=radical&no-bg=true)
