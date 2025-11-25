@@ -27,14 +27,16 @@ I'm a **Full Stack Developer** and **Competitive Programmer** passionate about b
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&hide_border=false&show_icons=true" alt="github stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&theme=radical&layout=compact&hide_border=false" alt="top languages" height="150"/>
+  <img src="https://github-readme-stats-hackers0x1.vercel.app/api?username=Hackeries&theme=radical&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats-hackers0x1.vercel.app/api/top-langs/?username=Hackeries&layout=compact&theme=radical" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hackeries&theme=radical&hide_border=false" alt="streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Hackeries&theme=radical" height="150"/>
 </p>
+
 
 ---
 
