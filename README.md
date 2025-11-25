@@ -1,59 +1,52 @@
+<!-- Typing SVG -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=40&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Let's+Build+Cool+Projects!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=700&height=50&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Let's+Build+Cool+Projects!" />
 </p>
 
-# 🖥️ Technical Skills:
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/>
-  </a>
+---
+
+## 🚀 About Me
+I'm a **Full Stack Developer** and **Competitive Programmer** passionate about building scalable applications, solving interesting problems, and contributing to open-source. I enjoy working with modern web stacks and experimenting with ML projects.
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,tailwind,postgres,supabase,vercel" alt="tech icons"/>
 </p>
 
-# 📂 Projects
-- **[AlgoRise](https://github.com/Hackeries/AlgoRise)** — Real-time competitive programming tracker using Next.js, TypeScript, Supabase, TailwindCSS.
-- **[Urban Synapse](https://github.com/Hackeries/Urban-Synapse)** — Digital platform for inter-departmental cooperation in Indian urban governance, built with Next.js, Supabase, and TailwindCSS.
-- **[FoodGaurd-Ai](https://github.com/Hackeries/FoodGaurd-Ai)** — AI-based food safety analysis using Python and Jupyter Notebooks.
-- **[Brain-Tumour](https://github.com/Hackeries/Brain-Tumour)** — Tumor detection project using Python & Machine Learning.
+---
 
-# 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&theme=radical&include_all_commits=true&layout=compact)  
-![Stats](https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&include_all_commits=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackeries&theme=radical)
+## 📂 Projects
 
+- **[AlgoRise](https://github.com/Hackeries/AlgoRise)** — Real-time competitive programming tracker built with **Next.js, TypeScript, Supabase, TailwindCSS**.  
+- **[Urban Synapse](https://github.com/Hackeries/Urban-Synapse)** — Digital platform for inter-departmental cooperation in Indian urban governance (Next.js + Supabase).  
+- **[FoodGaurd-Ai](https://github.com/Hackeries/FoodGaurd-Ai)** — AI-based food safety analysis using **Python** and Jupyter notebooks.  
+- **[Brain-Tumour](https://github.com/Hackeries/Brain-Tumour)** — Brain tumor detection using **Machine Learning**.
 
-# 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hackeries&theme=radical&no-bg=true)
+---
 
-# 📫 Connect with Me
-- Email: itssaj15@gmail.com  
-- LinkedIn: [Aviral Joshi](https://www.linkedin.com/in/aviral-joshi15/)  
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&hide_border=false&show_icons=true" alt="github stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&theme=radical&layout=compact&hide_border=false" alt="top languages" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hackeries&theme=radical&hide_border=false" alt="streak" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hackeries&theme=radical&no-bg=true" alt="trophies"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+- ✉️ Email: itssaj15@gmail.com  
+- 🔗 LinkedIn: [Aviral Joshi](https://www.linkedin.com/in/aviral-joshi15/)  
+
+---
