@@ -1,9 +1,5 @@
-<!-- Typing SVG -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=700&height=50&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Let's+Build+Cool+Stuff!"
-    alt="Typing introduction banner"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E22FE4&width=435&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Let's+Build+Cool+Stuff!" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,10 +11,7 @@ I'm a **Full Stack Developer** and **Competitive Programmer** passionate about b
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,tailwind,postgres,supabase,vercel"
-    alt="Tech stack icons"
-  />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,tailwind,postgres,supabase,vercel" alt="Tech stack icons" />
 </p>
 
 ---
@@ -34,35 +27,21 @@ I'm a **Full Stack Developer** and **Competitive Programmer** passionate about b
 
 ## 📈 GitHub Stats
 
-<!-- Use the official, reliable endpoints with caching -->
 <p align="center">
   <a href="https://github.com/Hackeries">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=21600"
-      alt="Hackeries GitHub Stats"
-      height="150"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&show_icons=true&hide_border=false&rank_icon=github" alt="Hackeries GitHub Stats" height="150" />
   </a>
   <a href="https://github.com/Hackeries">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&layout=compact&theme=radical&hide_border=false&langs_count=10&cache_seconds=21600"
-      alt="Top Languages"
-      height="150"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&layout=compact&theme=radical&hide_border=false&langs_count=10" alt="Top Languages" height="150" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Hackeries">
-    <img
-      src="https://streak-stats.demolab.com?user=Hackeries&theme=radical&hide_border=false"
-      alt="GitHub Streak"
-      height="150"
-    />
+    <img src="https://streak-stats.demolab.com?user=Hackeries&theme=radical&hide_border=false" alt="GitHub Streak" height="150" />
   </a>
 </p>
 
-<!-- Lightweight fallback badges in case images rate-limit or fail -->
 <p align="center">
   <a href="https://github.com/Hackeries?tab=followers">
     <img src="https://img.shields.io/github/followers/Hackeries?label=Followers&style=for-the-badge" alt="Followers badge">
@@ -76,16 +55,11 @@ I'm a **Full Stack Developer** and **Competitive Programmer** passionate about b
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Hackeries&theme=radical&no-bg=true&margin-w=10&margin-h=10"
-    alt="GitHub Profile Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hackeries&theme=radical&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Profile Trophies" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 - ✉️ Email: itssaj15@gmail.com  
-- 🔗 LinkedIn: [Aviral Joshi](https://www.linkedin.com/in/aviral-joshi15/)  
-
----
+- 🔗 LinkedIn: [Aviral Joshi](https://www.linkedin.com/in/aviral-joshi15/)
