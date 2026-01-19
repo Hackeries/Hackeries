@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E22FE4&width=435&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Let's+Build+Cool+Stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=700&height=50&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Let's+Build+Cool+Stuff!" alt="Typing introduction banner" />
 </p>
 
 ---
@@ -62,4 +62,6 @@ I'm a **Full Stack Developer** and **Competitive Programmer** passionate about b
 
 ## 📫 Connect with Me
 - ✉️ Email: itssaj15@gmail.com  
-- 🔗 LinkedIn: [Aviral Joshi](https://www.linkedin.com/in/aviral-joshi15/)
+- 🔗 LinkedIn: [Aviral Joshi](https://www.linkedin.com/in/aviral-joshi15/)  
+
+---
