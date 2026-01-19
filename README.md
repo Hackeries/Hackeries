@@ -48,6 +48,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Privora](https://github.com/Hackeries/Privora)** | A secure, privacy-focused application for data management. | `Next.js` `TypeScript` `Postgres` |
 | **[AlgoRise](https://github.com/Hackeries/AlgoRise)** | Real-time competitive programming tracker and companion app. | `Next.js` `TypeScript` `Supabase` |
 | **[Urban Synapse](https://github.com/Hackeries/Urban-Synapse)** | Digital platform for inter-departmental cooperation in urban governance. | `Next.js` `Supabase` `React` |
 | **[FoodGaurd-Ai](https://github.com/Hackeries/FoodGaurd-Ai)** | AI-based food safety analysis and detection system. | `Python` `Jupyter` `AI/ML` |
