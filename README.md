@@ -10,7 +10,7 @@
     <a href="mailto:itssaj15@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-c0caf5?style=for-the-badge&logo=gmail&color=EA4335&labelColor=1a1b26" />
     </a>
-    <a href="https://codeforces.com/profile/Hackeries">
+    <a href="https://codeforces.com/profile/aviralx">
       <img src="https://img.shields.io/badge/Codeforces-Hackeries-445f9d?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b26" />
     </a>
   </p>
@@ -58,12 +58,6 @@
 
 <br/>
 
-<h2 align="center">🏆 Achievements</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hackeries&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
-<br/>
 <br/>
 
 <div align="center">
