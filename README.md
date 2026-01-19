@@ -1,71 +1,93 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" />
-  
-  <h3>🚀 Building Scalable Systems & Solving Complex Problems</h3>
-  
-  <p>
-    <a href="https://github.com/Hackeries">
-      <img src="https://img.shields.io/github/followers/Hackeries?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" />
-    </a>
-    <a href="https://linkedin.com/in/aviral-joshi15">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0A66C2&labelColor=1a1b26" />
-    </a>
-    <a href="mailto:itssaj15@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-c0caf5?style=for-the-badge&logo=gmail&color=EA4335&labelColor=1a1b26" />
-    </a>
-  </p>
-</div>
+import { Trophy, Star, Target, MapPin } from "lucide-react"
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
+import { Badge } from "@/components/ui/badge"
+import { Card, CardContent, CardHeader } from "@/components/ui/card"
 
-<br/>
+interface UserProfileProps {
+  handle: string
+  rank: string
+  rating: number
+  maxRating: number
+  contribution: number
+  avatarUrl?: string
+  organization?: string
+  country?: string
+}
 
-<div align="center">
-  <a href="https://github.com/Hackeries">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hackeries&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="160" alt="stats graph" />
-  </a>
-  <a href="https://github.com/Hackeries">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" height="160" alt="languages graph" />
-  </a>
-</div>
+export function UserProfile({
+  handle,
+  rank,
+  rating,
+  maxRating,
+  contribution,
+  avatarUrl,
+  organization,
+  country,
+}: UserProfileProps) {
+  return (
+    <Card className="w-full h-full border-border bg-card">
+      <CardHeader className="flex flex-row items-center gap-4 pb-4">
+        {/* Avatar Section */}
+        <Avatar className="h-16 w-16 border-2 border-primary/10">
+          <AvatarImage src={avatarUrl} alt={handle} />
+          <AvatarFallback className="font-bold">
+            {handle.slice(0, 2).toUpperCase()}
+          </AvatarFallback>
+        </Avatar>
 
-<div align="center">
-  <br/>
-  <a href="https://github.com/Hackeries">
-    <img src="https://streak-stats.demolab.com?user=Hackeries&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
-  </a>
-</div>
+        {/* User Info Section */}
+        <div className="flex flex-col gap-1">
+          <h2 className="text-2xl font-bold tracking-tight leading-none">
+            {handle}
+          </h2>
+          <Badge 
+            variant="outline" 
+            className="w-fit capitalize font-medium text-muted-foreground"
+          >
+            {rank}
+          </Badge>
+          
+          {(organization || country) && (
+            <div className="flex items-center text-xs text-muted-foreground mt-1">
+              <MapPin className="h-3 w-3 mr-1" />
+              <span className="truncate max-w-[200px]">
+                {organization && `${organization}, `}{country}
+              </span>
+            </div>
+          )}
+        </div>
+      </CardHeader>
+      
+      <CardContent>
+        {/* Stats Grid */}
+        <div className="grid grid-cols-3 gap-4">
+          {/* Current Rating */}
+          <div className="flex flex-col gap-1 p-3 rounded-lg bg-secondary/20">
+            <span className="text-muted-foreground text-xs flex items-center gap-1.5 font-medium uppercase tracking-wider">
+              <Trophy className="h-3.5 w-3.5" /> Rating
+            </span>
+            <span className="text-xl font-bold">{rating}</span>
+          </div>
 
-<br/>
+          {/* Max Rating */}
+          <div className="flex flex-col gap-1 p-3 rounded-lg bg-secondary/20">
+            <span className="text-muted-foreground text-xs flex items-center gap-1.5 font-medium uppercase tracking-wider">
+              <Star className="h-3.5 w-3.5" /> Max
+            </span>
+            <span className="text-xl font-bold">{maxRating}</span>
+          </div>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,react,nextjs,tailwind,postgres,supabase,vercel,git,vscode&perline=10" />
-</div>
-
-<br/>
-
-<h2 align="center">📂 Featured Projects</h2>
-<div align="center">
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Privora](https://github.com/Hackeries/Privora)** | A secure, privacy-focused application for data management. | `Next.js` `TypeScript` `Postgres` |
-| **[AlgoRise](https://github.com/Hackeries/AlgoRise)** | Real-time competitive programming tracker and companion app. | `Next.js` `TypeScript` `Supabase` |
-| **[Urban Synapse](https://github.com/Hackeries/Urban-Synapse)** | Digital platform for inter-departmental cooperation in urban governance. | `Next.js` `Supabase` `React` |
-| **[FoodGaurd-Ai](https://github.com/Hackeries/FoodGaurd-Ai)** | AI-based food safety analysis and detection system. | `Python` `Jupyter` `AI/ML` |
-| **[Brain-Tumour](https://github.com/Hackeries/Brain-Tumour)** | Medical diagnostic tool for brain tumor detection. | `Machine Learning` `Python` |
-
-</div>
-
-<br/>
-
-<h2 align="center">🏆 Achievements</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hackeries&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <i>Let's build something amazing together.</i>
-</div>
+          {/* Contribution */}
+          <div className="flex flex-col gap-1 p-3 rounded-lg bg-secondary/20">
+            <span className="text-muted-foreground text-xs flex items-center gap-1.5 font-medium uppercase tracking-wider">
+              <Target className="h-3.5 w-3.5" /> Contrib
+            </span>
+            <span className={`text-xl font-bold ${contribution >= 0 ? 'text-green-500' : 'text-red-500'}`}>
+              {contribution > 0 ? `+${contribution}` : contribution}
+            </span>
+          </div>
+        </div>
+      </CardContent>
+    </Card>
+  )
+}
