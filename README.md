@@ -1,67 +1,70 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=700&height=50&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Let's+Build+Cool+Stuff!" alt="Typing introduction banner" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Aviral+Joshi;Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" />
+  
+  <h3>🚀 Building Scalable Systems & Solving Complex Problems</h3>
+  
+  <p>
+    <a href="https://github.com/Hackeries">
+      <img src="https://img.shields.io/github/followers/Hackeries?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" />
+    </a>
+    <a href="https://linkedin.com/in/aviral-joshi15">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0A66C2&labelColor=1a1b26" />
+    </a>
+    <a href="mailto:itssaj15@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-c0caf5?style=for-the-badge&logo=gmail&color=EA4335&labelColor=1a1b26" />
+    </a>
+  </p>
+</div>
 
----
+<br/>
 
-## 🚀 About Me
-I'm a **Full Stack Developer** and **Competitive Programmer** passionate about building scalable applications, solving interesting problems, and contributing to open-source. I enjoy working with modern web frameworks, cloud platforms, and databases.
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,tailwind,postgres,supabase,vercel" alt="Tech stack icons" />
-</p>
-
----
-
-## 📂 Projects
-
-- **[AlgoRise](https://github.com/Hackeries/AlgoRise)** — Real-time competitive programming tracker built with **Next.js, TypeScript, Supabase, TailwindCSS**.  
-- **[Urban Synapse](https://github.com/Hackeries/Urban-Synapse)** — Digital platform for inter-departmental cooperation in Indian urban governance (Next.js + Supabase).  
-- **[FoodGaurd-Ai](https://github.com/Hackeries/FoodGaurd-Ai)** — AI-based food safety analysis using **Python** and Jupyter notebooks.  
-- **[Brain-Tumour](https://github.com/Hackeries/Brain-Tumour)** — Brain tumor detection using **Machine Learning**.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/Hackeries">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hackeries&theme=radical&show_icons=true&hide_border=false&rank_icon=github" alt="Hackeries GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hackeries&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="160" alt="stats graph" />
   </a>
   <a href="https://github.com/Hackeries">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&layout=compact&theme=radical&hide_border=false&langs_count=10" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeries&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" height="160" alt="languages graph" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
+  <br/>
   <a href="https://github.com/Hackeries">
-    <img src="https://streak-stats.demolab.com?user=Hackeries&theme=radical&hide_border=false" alt="GitHub Streak" height="150" />
+    <img src="https://streak-stats.demolab.com?user=Hackeries&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Hackeries?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hackeries?label=Followers&style=for-the-badge" alt="Followers badge">
-  </a>
-  <a href="https://github.com/Hackeries?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Explore-blue?style=for-the-badge" alt="Repositories badge">
-  </a>
-</p>
+<br/>
 
----
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,react,nextjs,tailwind,postgres,supabase,vercel,git,vscode&perline=10" />
+</div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hackeries&theme=radical&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Profile Trophies" />
-</p>
+<br/>
 
----
+<h2 align="center">📂 Featured Projects</h2>
+<div align="center">
 
-## 📫 Connect with Me
-- ✉️ Email: itssaj15@gmail.com  
-- 🔗 LinkedIn: [Aviral Joshi](https://www.linkedin.com/in/aviral-joshi15/)  
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[AlgoRise](https://github.com/Hackeries/AlgoRise)** | Real-time competitive programming tracker and companion app. | `Next.js` `TypeScript` `Supabase` |
+| **[Urban Synapse](https://github.com/Hackeries/Urban-Synapse)** | Digital platform for inter-departmental cooperation in urban governance. | `Next.js` `Supabase` `React` |
+| **[FoodGaurd-Ai](https://github.com/Hackeries/FoodGaurd-Ai)** | AI-based food safety analysis and detection system. | `Python` `Jupyter` `AI/ML` |
+| **[Brain-Tumour](https://github.com/Hackeries/Brain-Tumour)** | Medical diagnostic tool for brain tumor detection. | `Machine Learning` `Python` |
 
----
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Achievements</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hackeries&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&column=7" />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <i>Let's build something amazing together.</i>
+</div>
